@@ -58,6 +58,7 @@ ReadData <- function() {
 require(reshape2)
 
 ## read all the data in
+## OBJECTIVE 1-4 ARE DONE IN THIS FUNCTION
 MergedData <- ReadData()
 
 
